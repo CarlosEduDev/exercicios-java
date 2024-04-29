@@ -10,4 +10,5 @@ public class BoletimEscolar {
         else
             System.out.println("Aprovado!");
     }
+
 }
