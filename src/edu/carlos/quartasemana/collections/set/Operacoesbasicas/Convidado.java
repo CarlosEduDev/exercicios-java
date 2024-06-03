@@ -1,4 +1,4 @@
-package edu.carlos.quartasemana.collections.set;
+package edu.carlos.quartasemana.collections.set.Operacoesbasicas;
 
 import java.util.Objects;
 
